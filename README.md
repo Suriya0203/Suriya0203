@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Suriya0203
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning about django, node js, machinelearning and fullstack development
+- 🌱 I’m currently learning about  React redux, node js, machinelearning and fullstack development
 - 📫 How to reach me suriyaprakash0203@gmail.com
